@@ -1,0 +1,3 @@
+npx create-react-app album-poster-generator
+cd album-poster-generator
+npm start
